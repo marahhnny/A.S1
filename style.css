@@ -1,0 +1,61 @@
+=body {
+    font-family: Arial;
+    background: url('../images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-bottom: 3px solid darkgrey;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+.menu li a:hover {
+    background-color: lightgrey;
+}
+
+main {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 22px;
+}
+
+.images img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+    border: 3px solid darkgrey;
+}
+
+.destination {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 3px solid darkgrey;
+}سs
